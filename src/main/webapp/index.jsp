@@ -5,7 +5,7 @@
    #header, #footer {
 			font-size: 40px;;
 			padding: 0.3em;
-			background: #ecc814;
+			background: #6f6a50;
 		}
    
    
@@ -23,7 +23,7 @@
   <center> 
 	  
 	  
-	  <h1 >  Groupe devops :)------------->Tests Jenkins |> <img src="good.png"  height="50" width="50"> </h1> 
+	  <h1 >  Slim devops :)------------->Tests Jenkins |> <img src="good.png"  height="50" width="50"> </h1> 
 	  
 	  </br>
           <img src="Jenkins.png"  height="300" width="300"> 
